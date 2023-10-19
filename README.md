@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Welcome!!&fontSize=50)
 <br>
 
+##Skill
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+
 <div align="center"
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf4503&show_icons=true&theme=radical)
