@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=250&section=header&text=Welcome!!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Welcome!!&fontSize=50)
+<br>
 
 <div align="center";
   
