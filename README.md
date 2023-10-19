@@ -1,6 +1,6 @@
-<p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fasdf4503%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+<div align=right>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasdf4503)](https://hits.seeyoufarm.com) 
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Welcome!!&fontSize=50)
 <br>
