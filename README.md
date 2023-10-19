@@ -7,6 +7,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdf4503&layout=compact)](https://github.com/asdf4503/github-readme-stats)
+
 ## 🔨Tool
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -21,5 +23,4 @@
   <br>
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf4503)](https://solved.ac/asdf4503)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdf4503&layout=compact)](https://github.com/asdf4503/github-readme-stats)
 </div>
