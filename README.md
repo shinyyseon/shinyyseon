@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Welcome!!&fontSize=50)
 <br>
 
-## Skill
+## 💻💻 Skill
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 
 <div align="center"
