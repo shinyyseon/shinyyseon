@@ -11,7 +11,8 @@
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-## Home
+## Contacts
+<a href="https://github.com/asdf4503" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=tistory&logo=github&logoColor=white"/></a>
 <a href="https://sunny-555.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=tistory&logo=tistory&logoColor=white"/></a>
 
 <div align="center"
@@ -21,6 +22,5 @@
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf4503)](https://solved.ac/asdf4503)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdf4503&layout=compact)](https://github.com/asdf4503/github-readme-stats)
 </div>
