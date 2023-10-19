@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Welcome!!&fontSize=50)
 <br>
 
+<div align="center"
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf4503&show_icons=true&theme=radical)
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf4503)](https://solved.ac/asdf4503)
+</div>
+
 ## 💻💻 Skill
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -16,11 +23,3 @@
 ## Contacts
 <a href="https://github.com/asdf4503" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=tistory&logo=github&logoColor=white"/></a>
 <a href="https://sunny-555.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=tistory&logo=tistory&logoColor=white"/></a>
-
-<div align="center"
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf4503&show_icons=true&theme=radical)
-  <br>
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf4503)](https://solved.ac/asdf4503)
-</div>
