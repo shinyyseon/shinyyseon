@@ -24,7 +24,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdf4503&layout=compact)](https://github.com/shinyyseon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyyseon&layout=compact)](https://github.com/shinyyseon/github-readme-stats)
 
 ## 🔨Tool
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
